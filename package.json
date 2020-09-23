@@ -1,0 +1,14 @@
+{
+  "name": "familytree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
